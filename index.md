@@ -1,5 +1,8 @@
 # Week5
-I am Working on my PCB Board. 
+I am testing my sensors.
+
+# During Strike
+The parts which i ordered for my project delivered. I came to college to work on my PCB board.
 
 # Week4
 In this week I submitted my Budget. I also start ordering my stuff for the project.
