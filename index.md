@@ -1,5 +1,5 @@
 # Week7
-![Alt text](raw=true "IMG")<br>
+![Alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/IMG-3528.JPG?raw=true "IMG1")<br>
 
 
 # Week6
