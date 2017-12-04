@@ -4,7 +4,7 @@ I connected my sensors and i ran the command sudo ./ghmain. My Light sensor is w
 
 
 # Week6
-I tested all my sensors (Temperature, Humidity and Light). They are working well. LED attached on the PCB Board is also blinking.
+I tested all my sensors (Temperature, Humidity and Light).LED attached on the PCB Board is also blinking.
 <br> Here I am showing my blinking LED and sensors working in a picture below.
 ![Alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/IMG-3527.jpg?raw=true "IMG")<br>
 
