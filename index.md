@@ -1,3 +1,7 @@
+# Week7
+![Alt text](raw=true "IMG")<br>
+
+
 # Week6
 I tested all my sensors (Temperature, Humidity and Light). They are working well. LED attached on the PCB Board is also blinking.
 <br> Here I am showing my blinking LED and sensors working in a picture below.
