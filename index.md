@@ -1,5 +1,12 @@
+# Week6
+I tested all my sensors (Temperature, Humidity and Light). They are working well. LED attached on the PCB Board is also blinking.
+<br> Here I am showing my blinking LED and sensors working in a picture below.
+![Alt text]()<br>
+
+
+
 # Week5
-I am testing my sensors. On 28th november I tested my sensor but it was not working. I tried to check the pins again with a diagram provided on the web and realised that even though my code was taking an input from pin 29, my sensor was giving the output to pin 31, and i missed that fact because of the close approximity of those two pins. When i realised that, I changed my pin and then my sensor worked well.
+I am testing my sensors. On 28th november I tested my project sensor but it was not working. I tried to check the pins again with a diagram provided on the web and realised that even though my code was taking an input from pin 29, my sensor was giving the output to pin 31, and i missed that fact because of the close approximity of those two pins. When i realised that, I changed my pin and then my sensor worked well.
 
 # During Strike
 The parts which i ordered for my project delivered. I came to college to work on my PCB board.
