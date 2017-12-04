@@ -1,4 +1,5 @@
 # Week7
+I connected my sensors and i ran the command sudo ./ghmain. My Light sensor is working well but there is a problem in temperature sensor. It is showing the same temperature on all the reading.
 ![Alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/IMG-3528.JPG?raw=true "IMG1")<br>
 
 
