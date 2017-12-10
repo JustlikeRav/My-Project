@@ -2,7 +2,7 @@
 I connected my sensors and i ran the command sudo ./ghmain. My Light sensor is working well but there is a problem in temperature sensor. It is showing the same temperature on all the reading.
 ![Alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/IMG-3528.JPG?raw=true "IMG1")<br>
 <br> My humdity sensor is also working now. Below is the picture of output of the sensor.
-![Alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/IMG-3528.JPG?raw=true "IMG2")<br>
+![Alt text](https://github.com/GaGanGr3wal/My-Project/blob/master/IMG-3529.JPG?raw=true "IMG2")<br>
 
 
 # Week6
