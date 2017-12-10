@@ -3,7 +3,7 @@ We are working on Group Placard which is due on Monday. Also we have to write an
 <br>[Placard: Trippie](https://github.com/GaGanGr3wal/My-Project/blob/master/PlacardTRIPPIE.pub)
 
 ## Trippie Placard:
-![TrippiePlacard](https://github.com/GaGanGr3wal/My-Project/blob/master/TrippiePlacard.png)
+![TrippiePlacard](https://github.com/GaGanGr3wal/My-Project/blob/master/TrippiePlacard.png)<br>
 
 # Week7
 I connected my sensors and i ran the command sudo ./ghmain. My Light sensor is working well but there is a problem in temperature sensor. It is showing the same temperature on all the reading.
