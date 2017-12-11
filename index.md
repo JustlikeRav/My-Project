@@ -1,6 +1,6 @@
 # Week8
 We are working on Group Placard which is due on Monday. Also we have to write an individual 30 second script. 
-<br> Here is the link to my Individual 30 sec Script and group Placard.
+<br> Below is the link to my Individual 30 sec Script and group Placard.
 <br> [Script](https://github.com/GaGanGr3wal/My-Project/blob/master/Script.docx)
 <br>[Placard: Trippie](https://github.com/GaGanGr3wal/My-Project/blob/master/PlacardTRIPPIE.pub)
 
