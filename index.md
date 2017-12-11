@@ -1,5 +1,7 @@
 # Week8
 We are working on Group Placard which is due on Monday. Also we have to write an individual 30 second script. 
+
+<br>  [Script]
 <br>[Placard: Trippie](https://github.com/GaGanGr3wal/My-Project/blob/master/PlacardTRIPPIE.pub)
 
 ## Trippie Placard:
